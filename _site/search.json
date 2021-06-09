@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-09T11:08:32+02:00"
+    },
+    {
+      "path": "Datenanalyse.html",
+      "title": "Maikes Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nDas ist die Unterseite zur Datenanalyse\n\n\n\n",
+      "last_modified": "2021-06-09T11:08:34+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Maikes Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-09T11:08:35+02:00"
+    }
+  ],
+  "collections": []
+}
