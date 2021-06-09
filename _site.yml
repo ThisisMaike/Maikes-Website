@@ -1,0 +1,14 @@
+name: "Maikes Website"
+title: "Maikes Website"
+description: |
+  Maikes Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Datenanalyse"
+      href: Datenanalyse.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
