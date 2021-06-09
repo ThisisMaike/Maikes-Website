@@ -1,7 +1,8 @@
 ---
 title: "Maikes Website"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to my website where I present you some of my data visualizations.  
+  **I hope you enjoy it!**
 site: distill::distill_website
 ---
 

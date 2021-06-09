@@ -3,26 +3,34 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
+      "description": "This website is the product of my previous homework for the data visualization course in the sommer semester 2021.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-09T11:08:32+02:00"
+      "last_modified": "2021-06-09T21:39:16+02:00"
     },
     {
-      "path": "Datenanalyse.html",
+      "path": "Bechdel_Test.html",
       "title": "Maikes Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\nDas ist die Unterseite zur Datenanalyse\n\n\n\n",
-      "last_modified": "2021-06-09T11:08:34+02:00"
+      "contents": "\nBechdel Test\n\nThe Bechdel test also known as the Bechdel–Wallace test, is a measure of the representation of women in fiction. It asks >whether a work features at least two women who talk to each other about something other than a man. The requirement that the >two women must be named is sometimes added. - Wikipedia\n\nHere your can learn more about the Bechdel test\nHave a look at my Bechdel Test Visualizations!\nMovie Genres\nThis bar chart compares the movies in the six main genres in regard to their Bechdel test results.\n\nHarry Potter Movies\nThis bar chart compares the 7 Harry Potter movies in regard to their Bechdel test results.\nBig Budget Movies\nThis bar chart shows the top eight big budget movies and their profitability. It examines whether their could be a relation to those movies’ Bechdel Test results .\n\n\n\n\n",
+      "last_modified": "2021-06-09T21:39:18+02:00"
+    },
+    {
+      "path": "Bundestagswahl.html",
+      "title": "Maikes Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nBundestagswahl\n\nDie Wahl zum 19. Deutschen Bundestag fand am 24. September 2017 statt.Die Wahlbeteiligung betrug 76,2 %, etwa 5 Prozentpunkte mehr als 2009 (70,8 %) und 2013 (71,5 %) und steht dem Abwärtstrend, den es seit der bisherigen Höchstmarke von 1972 (91,1 %) gibt, entgegen. - Wikipedia\n\nHier gibt es noch mehr Informationen zur Bundestagswahl 2017\nMeine Visualisierung zur Bundestagswahl 2017\nErgebnis der Bundestagswahl 2017 nach Bundesland\nJedes Donut-Diagramme zeigt pro Bundesland den Anteil der Zweitstimmen für die einzelnen Parteien an.\n\n\n\n\n",
+      "last_modified": "2021-06-09T21:39:19+02:00"
     },
     {
       "path": "index.html",
       "title": "Maikes Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Welcome to my website where I present you some of my data visualizations.  \n**I hope you enjoy it!**\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-09T11:08:35+02:00"
+      "last_modified": "2021-06-09T21:39:20+02:00"
     }
   ],
   "collections": []

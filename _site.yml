@@ -4,10 +4,16 @@ description: |
   Maikes Website
 output_dir: "_site"
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
-    - text: "Datenanalyse"
+    - text: "Information Visualization"
+      menu:
+        - text: "Bechdel Test"
+          href: Bechdel_Test.html
+        - text: "Bundestagswahl 2017"
+          href: Bundestagswahl.html
       href: Datenanalyse.html
     - text: "About"
       href: about.html

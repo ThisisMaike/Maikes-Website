@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  This website is the product of my previous homework for the data visualization course in the sommer semester 2021.
 ---
 
 ```{r setup, include=FALSE}
