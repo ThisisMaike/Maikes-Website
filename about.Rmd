@@ -3,7 +3,6 @@ title: "About this site"
 description: |
   This website is the product of my previous homework for the data visualization course in the sommer semester 2021.
   
-  Git Test
 ---
 
 ```{r setup, include=FALSE}
